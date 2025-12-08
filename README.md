@@ -223,4 +223,4 @@ OK
 ## Support
 If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/adpatter/neuralplex/issues) or start a [discussion](https://github.com/adpatter/neuralplex/discussions). You’re also welcome to reach out directly to one of the authors.
 
-- [Adam Patterson](https://github.com/adamjpatterson)
+- [Adam Patterson](https://github.com/adpatter)
