@@ -150,7 +150,7 @@ The green nodes comprise the inputs, the red nodes comprise the hidden layer, an
 
 |                             Before Training                              |                             After Training                             |
 | :----------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| ![Neural-pleX Before Training](https://raw.githubusercontent.com/adpatter/neuralplex/refs/heads/main/images/Neural-pleX_before_training.png) | ![Neural-pleX After Training](https://github.com/far-analytics/neuralplex/blob/main/images/Neural-pleX_after_training.png?raw=true) |
+| ![Neural-pleX Before Training](https://raw.githubusercontent.com/far-analytics/neuralplex/refs/heads/main/images/Neural-pleX_before_training.png) | ![Neural-pleX After Training](https://github.com/far-analytics/neuralplex/blob/main/images/Neural-pleX_after_training.png?raw=true) |
 
 ## Test
 
