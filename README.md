@@ -150,7 +150,7 @@ The green nodes comprise the inputs, the red nodes comprise the hidden layer, an
 
 |                             Before Training                              |                             After Training                             |
 | :----------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| ![Neural-pleX Before Training](https://raw.githubusercontent.com/adpatter/neuralplex/refs/heads/main/images/Neural-pleX_before_training.png) | ![Neural-pleX After Training](https://github.com/adpatter/neuralplex/blob/main/images/Neural-pleX_after_training.png?raw=true) |
+| ![Neural-pleX Before Training](https://raw.githubusercontent.com/adpatter/neuralplex/refs/heads/main/images/Neural-pleX_before_training.png) | ![Neural-pleX After Training](https://github.com/far-analytics/neuralplex/blob/main/images/Neural-pleX_after_training.png?raw=true) |
 
 ## Test
 
@@ -161,7 +161,7 @@ A model is trained that estimates a decimal value given a binary nibble.
 #### Clone the repository.
 
 ```bash
-git clone https://github.com/adpatter/neuralplex.git
+git clone https://github.com/far-analytics/neuralplex.git
 ```
 
 #### Change directory into the repository.
@@ -221,6 +221,6 @@ OK
 ```
 
 ## Support
-If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/adpatter/neuralplex/issues) or start a [discussion](https://github.com/adpatter/neuralplex/discussions). You’re also welcome to reach out directly to one of the authors.
+If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/far-analytics/neuralplex/issues) or start a [discussion](https://github.com/far-analytics/neuralplex/discussions). You’re also welcome to reach out directly to one of the authors.
 
 - [Adam Patterson](https://github.com/adpatter)
